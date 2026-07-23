@@ -12,7 +12,7 @@ Aquí puedes ver la interfaz del sistema en sus diferentes roles:
 ![Pantalla de Login](./public/login.jpg)
 
 ### Panel de Profesores
-![Vista del Profesor](./public/vistaprofesores.jp)
+![Vista del Profesor](./public/vistaprofesores.jpg)
 
 ### Panel de Alumnos
 ![Vista del Alumno](./public/vistaalumnos.jpg)
